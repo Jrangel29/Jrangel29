@@ -1,4 +1,4 @@
-<h1 align="center" style="display: inline;">Hi Stranger, I'm João 👋</h1>
+<p align="center" style="font-size:200%;"><strong>Hi Stranger, I'm João 👋</strong></h1>
 <h3 align="center" style="display: inline;">An aspiring full-stack developer from Portugal</h3>
 
 <p align="left">I'm a developer who is passionate about turning design ideas into fully fledged, working products. Most of my experience is focused on front-end development, but I also have some experience working with backend technologies. Professionally, my main goal is to become the most complete full-stack developer I can be. 👨‍💻 <br> All of my personal coding projects are built from the ground up, from planning their features, all the way to the design and implementation via code. While working in projects that involve a team, although I'm more passionate and experienced working with frontend development, I try to be as helpful as I can, and do a little bit of everything... that doesn't involve designing the interfaces, of course. 👀 <br> Currently, I'm learning more about C# testing with specflow, and also solidifying my JavaScript knowledge. 💡</p>
